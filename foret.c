@@ -66,5 +66,5 @@ void faireVivreForet(Enfants enfants,Foret foret, Ogre ogre) {
         Enfant_en_Vie = compterEnfant(enfants);
         printf("\nNombre d'enfant en vie = %d", Enfant_en_Vie);
     }
-    printf("La mort est passé et à emporté tout les enfants")
+    printf("La mort est passé et à emporté tout les enfants");
 }
